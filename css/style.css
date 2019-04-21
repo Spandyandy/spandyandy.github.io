@@ -21,7 +21,7 @@
 
 body{
     font-family: 'Montserrat', sans-serif;
-    padding-bottom: 170px;
+    /*padding-bottom: 170px;*/
     font-weight: 500;
 }
 
@@ -54,7 +54,7 @@ header{
     position: absolute;
     width: 30px;
     height: 30px;
-    border: 4px solid #AEDDED;
+    border: 4px solid #eb1e25;
     -o-animation:loader 2s infinite ease;
     -ms-animation:loader 2s infinite ease;
     -moz-animation:loader 2s infinite ease;
@@ -71,7 +71,7 @@ header{
     display: inline-block;
     width: 100%;
     vertical-align: top;
-    background-color: #AEDDED;
+    background-color: #eb1e25;
     -o-animation:loader-inner 2s infinite ease-in;
     -ms-animation:loader-inner 2s infinite ease-in;
     -moz-animation:loader-inner 2s infinite ease-in;
@@ -1832,7 +1832,7 @@ textarea.form-message{
     }
 
     body {
-        padding-bottom: 176px;
+        /*padding-bottom: 176px;*/
     }
 
     footer .social{
@@ -1952,7 +1952,7 @@ textarea.form-message{
 
     body {
         font-family: 'Montserrat', sans-serif;
-        padding-bottom: 218px;
+        /*padding-bottom: 218px;*/
     }
 
     footer .social {
