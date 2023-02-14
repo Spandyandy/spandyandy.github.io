@@ -5,6 +5,3 @@
 ![Portfolio Website](link)
 
 This is a portfolio.
-
-Setup:
-- run ```npm i && npm start```
